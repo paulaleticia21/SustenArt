@@ -1,0 +1,15 @@
+
+    #img-bg{
+        background-image: url('https://asplanpb.com.br/wp-content/uploads/2018/02/meioambiente.jpg');
+        min-height: 695px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    p{
+        font-size: 25pt;
+    }
+    .logotipo{
+        height:50px;
+        weight: 50px;
+    }

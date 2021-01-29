@@ -1,0 +1,40 @@
+.login-container{
+    margin: 6% 10%;
+    width: 30%;
+  
+}
+.login-content{
+    margin: 6% 15%;
+
+}
+.btn-acessar{
+    width: 140px;
+    margin-left: 35%;
+    margin-bottom: 8%;
+
+}
+.conta-content{
+    border-top:solid 1px rgba(128, 128, 128, 0.8);
+    padding-top:4%;
+   
+
+}
+.container-center {
+
+    margin: 1% 5%;
+    padding: 9% 2%;
+  
+
+}
+
+    #img-bg{
+        background-image: url('https://smastr16.blob.core.windows.net/home/2020/09/istock-1085122436-1024x683.jpg');
+        min-height: 695px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .opacity{
+        opacity:0.8;
+        filter:alpha(opacity=60);
+        }
